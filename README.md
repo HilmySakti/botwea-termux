@@ -1,4 +1,4 @@
-### Moshi Moshi~ I'm ANKER<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
+### Moshi Moshi~ I'm Hilmy<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 
 🍙 Help me!
 
@@ -17,8 +17,8 @@
 ---
 
 ## Information
-- Ubah Nama kontak owner [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L101)
-- Ubah Nama Creator [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L102)
+- Ubah Nama kontak owner [this section](https://github.com/HilmySakti/botwea-termux/blob/main/index.js#L101)
+- Ubah Nama Creator [this section](https://github.com/HilmySakti/botwea-termux/blob/main/index.js#L102)
 - Ubah Nomer owner [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L322)
 - Ubah prefix [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L105)
 - Ubah apikey Mhank Bar 2x [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L273)
@@ -39,7 +39,7 @@ Follow The Steps Below!
 > termux-setup-storage
 (after that tap on permission)
 > apt install git -y
-> git clone https://github.com/4NK3R-PRODUCT1ON/botwea-termux
+> git clone https://github.com/HilmySakti/botwea-termux
 > cd botwea
 > bash install.sh
 
