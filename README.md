@@ -1,10 +1,14 @@
+<p align="center">
+<img src=https://i.ibb.co/wrdMgWx/20210521-141142.jpg" alt="20210521-141142" border="0">
+</p>
+
 ### Moshi Moshi~ I'm Hilmy<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 
 🍙 Help me!
 
-* [Saweria](https://saweria.co/darkbot2412)
+* [Trakteer](https://trakteer.id/HilmyGaming87)
 
-#Gopay/Pulsa/Dana:0813-6864-6011
+#Pulsa:081217779427
 
 ## Tools
 
