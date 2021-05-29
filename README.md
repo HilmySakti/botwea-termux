@@ -2,9 +2,9 @@
 
 🍙 Help me!
 
-* [Saweria](https://saweria.co/darkbot2412)
+* [Trakteer](https://trakteer.id/HilmyGaming87)
 
-#Gopay/Pulsa/Dana:0813-6864-6011
+#Pulsa:081217779427
 
 ## Tools
 
@@ -67,7 +67,7 @@ CEK SENDIRI GAN
 
 - [Baileys](https://github.com/adiwajshing/Baileys)
 - [MHANK BAR BAR](https://github.com/MhankBarBar)
-- [ RIZKY ]
+- [ HILMY ](https://github.com/HilmySakti)
 - [ ARMAN ]
 - [ RENANDO ]
 - [ MHANKBARBAR ]
