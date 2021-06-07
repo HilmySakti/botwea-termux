@@ -8,8 +8,9 @@
 
 * [Trakteer](https://trakteer.id/HilmyGaming87)
 
-#Pulsa:081217779427
-
+# Donasi Dong Jan Cuam Ambil Script Langsung Cabut
+[TRAKTEER](https://trakteer.id/HilmyGaming87)
+                                                                                                                              
 ## Tools
 
 ```bash
